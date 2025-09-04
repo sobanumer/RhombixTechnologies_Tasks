@@ -1,5 +1,8 @@
 # RhombixTechnologies_Tasks
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sobanumer/RhombixTechnologies_Tasks/blob/main/Image_Recognition.ipynb)
+
+
 This repository contains my internship tasks for **Rhombix Technologies** in the Machine Learning domain.
 
 ---
