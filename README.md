@@ -4,21 +4,36 @@ This repository contains my internship tasks for **Rhombix Technologies** in the
 
 ---
 
-## Task 1: Image Recognition
+## 📌 Task 1: Image Recognition
 
-**Goal:**  
+### 🎯 Goal  
 Build a simple image recognition system using deep learning.
 
-**Dataset:**  
-MNIST handwritten digits (28x28 grayscale images).
+### 📊 Dataset  
+- **MNIST handwritten digits** (70,000 images, 28x28 grayscale).  
+- 60,000 training images, 10,000 testing images.  
 
-**Method:**  
+### 🛠 Method  
 - Normalize and preprocess the data.  
-- Train a Convolutional Neural Network (CNN) using TensorFlow/Keras.  
-- Test accuracy and make predictions.  
+- Train a **Convolutional Neural Network (CNN)** using TensorFlow/Keras.  
+- Evaluate model on test data.  
+- Make random predictions and visualize results.  
 
-**Results:**  
-Model achieves about 98–99% accuracy on the test set.  
-Example predictions will be added here.  
+### ✅ Results  
+- Achieved **98–99% accuracy** on the test set.  
+- Example prediction:  
 
-**Tech Used:** Python, TensorFlow/Keras, Matplotlib, NumPy
+![Sample Prediction](testing.png)
+
+### 💻 Technologies Used  
+- Python  
+- TensorFlow / Keras  
+- NumPy  
+- Matplotlib  
+
+---
+
+## 🚀 How to Run
+1. Clone this repo:  
+   ```bash
+   git clone https://github.com/sobanumer/RhombixTechnologies_Tasks.git
